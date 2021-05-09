@@ -15,6 +15,7 @@ function solveRect(l, w) {
 			);
 		}
 	});
+
 	console.log('This statement is logged after the rect()');
 }
 
